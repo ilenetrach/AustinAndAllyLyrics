@@ -1,13 +1,5 @@
 import pyautogui
-script = "When the crowd wants more
-I bring on the thunder
-'Cause you got my back
-And I'm not going under
-You're my point, you're my guard
-You're the perfect chord
-And I see our names together on every billboard
-We're headed for the top
-We got it on lock
+script = "When the crowd wants more I bring on the thunder 'Cause you got my back And I'm not going under You're my point, you're my guard You're the perfect chord And I see our names together on every billboard We're headed for the top We got it on lock
 We'll make 'em say, "Hey!"
 'Cause there's no stopping us when we hit
 The same but different
